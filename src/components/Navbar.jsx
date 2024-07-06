@@ -1,3 +1,4 @@
+"use client"
 import { navLists } from '@components/constants'
 import { appleImg, bagImg, searchImg } from '@components/utils'
 import Image from 'next/image'

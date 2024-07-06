@@ -5,7 +5,6 @@ import gsap from 'gsap'
 import Image from 'next/image'
 import React from 'react'
 import VideoCarousel from './VideoCarousel'
-
 export default function Highlights() {
     useGSAP(() =>{
         gsap.to('#title', {opacity:1,y:0});
@@ -36,8 +35,7 @@ export default function Highlights() {
 
         </div>
     </div>
-    <VideoCarousel/>
-
+<VideoCarousel/>
 </div>
     </section>
   )

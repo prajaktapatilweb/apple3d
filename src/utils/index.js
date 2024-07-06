@@ -1,3 +1,5 @@
+
+"use client"
 import hero from "/public/assets/images/hero.jpeg";
 
 export const heroImg = hero;
