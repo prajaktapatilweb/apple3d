@@ -10,10 +10,14 @@
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
+    "@react-three/drei": "^9.108.3",
+    "@react-three/fiber": "^8.16.8",
     "gsap": "^3.12.5",
     "next": "14.2.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-three": "^0.9.7",
+    "three": "^0.166.1"
   },
   "devDependencies": {
     "eslint": "^8",
